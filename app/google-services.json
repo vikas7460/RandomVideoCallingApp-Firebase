@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280035420232",
+    "project_id": "strangersvideocall-ec14d",
+    "storage_bucket": "strangersvideocall-ec14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280035420232:android:01f89cc8e50cba39a8507d",
+        "android_client_info": {
+          "package_name": "com.appsians.strangers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280035420232-tt0h60td7bdrojjgsrjdtkbuv6i95egq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsians.strangers",
+            "certificate_hash": "2f5b967f34a66c21e6b8659be8be9c6b5114c09a"
+          }
+        },
+        {
+          "client_id": "280035420232-kg7hse8p38l064csk0s17mq7aah3915m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccDQAVvudviqi0QDo0pEV3YlMYKB4d-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280035420232-kg7hse8p38l064csk0s17mq7aah3915m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
